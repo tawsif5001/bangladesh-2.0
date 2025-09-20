@@ -171,3 +171,129 @@ nav ul{
     width: 400px;
     height: 350;
 }
+
+
+/* pillars of bangladesh */
+
+.pillars-bd-container{
+    max-width:90%;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    
+   
+}
+
+.pillars-bd-heading{
+    font-size: 40px;
+    line-height: auto;
+    letter-spacing: 0%;
+    margin-bottom:  32px;;
+
+}
+
+.pilars-card-container{
+    display: flex;
+   
+    gap: 24px;
+    margin-bottom: 80px;
+  
+
+    
+}
+
+.card{
+   
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 24px 24px;
+    margin-right: 24px;
+    background-color: rgba(255, 255, 255, 1)
+    
+    
+
+}
+
+.card-icon{
+    height: 64px;
+    width: 64px;
+    margin-bottom: 24px;
+}
+
+.card-heading{
+    font-size: 20px;
+    line-height: auto;
+    letter-spacing: 0%;
+    color: rgba(14, 14, 14, 0.8);
+    margin-bottom: 12px;
+
+}
+
+.card-description{
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: rgba(14, 14, 14, 0.7);
+
+}
+
+/* future-vision */
+
+.vision-card-01{
+   
+    border: none;
+    border-radius: 16px;
+    padding: 32px 32px;
+    margin-right: 24px;
+    background-color: rgba(84, 144, 245, 0.2);
+    
+      
+}
+
+
+.vision-card-02{
+   
+    border: none;
+    border-radius: 16px;
+    padding: 32px 32px;
+    margin-right: 24px;
+    background-color: rgba(198, 228, 214, 1);
+    
+    
+}
+
+
+.vision-card-03{
+     
+    border-radius: 16px;
+    padding: 32px 32px;
+    margin-right: 24px;
+    background-color: rgba(247, 235, 207, 1);
+   
+}
+
+.vision-btn-style{
+    font-size: 16px;
+    line-height: auto;
+    letter-spacing: 0%;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    padding: 11px 20px;
+    border-radius: 8px;
+    margin-top: 24px;
+
+
+}
+
+.vision-btn-01{
+    background-color: rgba(84, 144, 245, 1);
+
+}
+.vision-btn-02{
+    background-color: rgba(9, 161, 92, 1);
+}
+
+.vision-btn-03{
+    background-color: rgba(255, 194, 57, 1);
+}
+
