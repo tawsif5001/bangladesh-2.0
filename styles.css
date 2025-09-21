@@ -393,7 +393,6 @@ nav ul{
     
 }
 
-
 .opinion-table-container th,td{
     padding: 24px 24px;
     font-size: 16px;
@@ -504,7 +503,6 @@ nav ul{
     
 }
 
-
 .donate-item-container button{
     color: rgba(255, 255, 255, 1); 
     margin-top: 32px;
@@ -570,3 +568,89 @@ nav ul{
    background-color:rgba(0, 106, 80, 1); /* Background color on hover */
   color: white; /* Text color on hover */
 }
+
+/* subscribe styles */
+
+.subscribe{
+    
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.subscribe-container{
+    background-color: rgba(198, 228, 214, 1);
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px 100px;
+    border-radius: 24px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.subscribe-container h1{
+    font-size: 40px;
+    line-height: auto;
+    letter-spacing: 0%;
+    color: rgba(14, 14, 14, 1)
+    
+
+}
+
+.subscribe-container p{
+   color: rgba(14, 14, 14, 0.7); 
+   font-size: 16px;
+   line-height: 24px;
+   letter-spacing: 0%;
+  
+   
+}
+
+.sub-description{
+    margin-top: 16px;
+    margin-bottom: 24px;
+   
+    
+    
+
+}
+
+
+
+.search{
+    margin-bottom: 25px;   
+}
+
+.search-form{
+    display: flex;
+    justify-content: center;
+
+   
+}
+
+.search-form input{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.3);
+    gap: 24px;
+    width: 500px;
+    padding: 18px 50px;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+
+}
+
+.sub-btn{
+    font-size: 18px;
+    line-height: auto;
+    letter-spacing: 0%;
+    color:rgba(255, 255, 255, 1) ;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    gap: 48px;
+    padding: 18px 34px;
+    background-color: rgba(0, 106, 80, 1)
+}   
+
+
