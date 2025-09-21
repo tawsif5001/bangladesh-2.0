@@ -492,6 +492,81 @@ nav ul{
     margin-top: 12px;
 }
 
+/* donate section start */
+
+.donate{
+   
+    display: flex;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+    
+}
 
 
+.donate-item-container button{
+    color: rgba(255, 255, 255, 1); 
+    margin-top: 32px;
+    
+}
 
+.other-amount-container{
+    display: flex;
+    justify-content: center;
+   
+}
+
+#other-amount-taka{
+    font-size: 15px;
+    color: rgba(14, 14, 14, 0.3);
+    background-color: rgba(255, 255, 255, 1);
+    padding: 18px 300px;
+    line-height: auto;
+    letter-spacing: 0%;
+    
+}
+
+
+.amount-container{
+    
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    
+
+}
+
+.amount{
+    font-size: 20px;
+    line-height: auto;
+    letter-spacing: 0%;
+    color: rgba(14, 14, 14, 0.8) ;
+    background-color: rgba(255, 255, 255, 1);
+    border: solid 1px rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 30px 30px;
+}
+
+.donate-title{
+    font-size: 40px;
+    color: rgba(14, 14, 14, 1);
+    line-height: auto;
+    letter-spacing: 0%;
+    margin-bottom: 24px;
+
+}
+
+.donate-des{
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.amount:hover {
+   background-color:rgba(0, 106, 80, 1); /* Background color on hover */
+  color: white; /* Text color on hover */
+}
